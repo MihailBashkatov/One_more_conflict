@@ -1,2 +1,2 @@
 def get_figure():
-    pass
+    return 1
